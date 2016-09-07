@@ -1,5 +1,5 @@
 #Battle Galaxy
-Group2.2 BYOB Project's
+Group2.6 BYOB Project's
 
 
 ####Member Lists

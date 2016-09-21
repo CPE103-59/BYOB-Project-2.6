@@ -15,7 +15,12 @@ Group2.6 BYOB Project's
   * 'Right Arrow' to ~~turn right~~ rotate clockwise
 
 ####Enemy
+
+* Normal enemies
 ![Enemy](http://i.imgur.com/czwOWw7.png)
+
+* Boss
+![Boss](http://i.imgur.com/uHID2HA.png)
 
 *NOTE: Even they seems funny, but if you hit them, you die instantly!*
 
